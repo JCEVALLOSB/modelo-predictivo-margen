@@ -47,3 +47,7 @@ La base original no se publica porque contiene información empresarial confiden
 3. Ejecutar las celdas en orden.
 4. Revisar las etapas de preprocesamiento, construcción de variables, entrenamiento de modelos y comparación de métricas.
 5. Comparar los modelos evaluados mediante MAE, RMSE, MAPE y R².
+
+## Disponibilidad de datos
+
+La base original no se encuentra disponible en este repositorio por contener información empresarial confidencial. El acceso a una versión anonimizada podrá solicitarse únicamente para fines académicos al administrador del proyecto joan.cevallos@udla.edu.ec, sujeto a autorización previa, validación del uso académico y exclusión de información crítica de la organización.
